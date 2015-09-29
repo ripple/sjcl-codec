@@ -1,6 +1,6 @@
 {
   "name": "sjcl-codec",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "sjcl.codec",
   "main": "index.js",
   "repository": {
@@ -8,5 +8,5 @@
     "url": "git://github.com/ripple/sjcl-codec.git"
   },
   "readmeFilename": "README.md",
-  "license": "ISC"
+  "license": "BSD"
 }
